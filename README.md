@@ -1,6 +1,7 @@
 # vendor_1
 
 A new Flutter project.
+![Screenshot (404)](https://user-images.githubusercontent.com/78641804/145670239-d1a44df4-ee61-4a64-975c-507d10fc28d5.png)
 
 ## Getting Started
 
